@@ -1,5 +1,6 @@
 Portfolio of Web Developer
 Created by Viktor Ilie
+Inspired by Freecodecamp
 
 Simple portfolio created of three sections [ navbar, projects, contact]
 
