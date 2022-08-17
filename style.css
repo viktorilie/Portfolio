@@ -191,7 +191,7 @@
   
   /* "Automagic" image grid using no media queries */
   .projects-grid {
-    display: grid;
+    display:flex;
     grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
     grid-gap: 4rem;
     width: 100%;
