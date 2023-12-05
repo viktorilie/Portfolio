@@ -1,8 +1,9 @@
-Viktor Ilie - Frontend Developer Portfolio
-Welcome to my portfolio repository! This repository contains the code for my personal website showcasing my frontend development skills.
+Welcome to my portfolio repository! 
+Created by Viktor Ilie Inspired by Freecodecamp
 
-About
-I am Viktor Ilie, a passionate frontend developer with expertise in JavaScript, React, Bootstrap, and Git. This portfolio serves as a showcase of my projects and skills.
+The portfolio is created of three sections [ navbar, projects, contact]
+
+This repository contains the code for my personal website showcasing my frontend development skills.
 
 Technologies Used
 JavaScript: Proficient in modern JavaScript development.
