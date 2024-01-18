@@ -1,3 +1,8 @@
+![image](https://github.com/viktorilie/Portfolio/assets/60520772/a1d9c158-d7c8-46aa-8a44-92ef0e314461)
+
+
+
+
 Welcome to my portfolio repository! 
 Created by Viktor Ilie Inspired by Freecodecamp
 
